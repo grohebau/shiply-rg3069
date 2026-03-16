@@ -1,0 +1,47 @@
+{
+  "SE428152706DE": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Jensen, Quintinsstraße 6, 55131 Mainz, Deutschland",
+    "receiver": "Czebei Dénes, Felszabadulás u. 38, 7561 Nagybajom, Ungarn",
+    "price": "10.000,00 €",
+    "description": "Hersteller: Harley-Davidson<br>Typ: Street Glide Gespann<br>Fahrgestelnummer: 5HD1KBW106Y601727<br>Erstzulassung: 03.2007<br>KM laut Vorbesitzer: 34.700 km<br>Leistung: 55 kW (75 PS)<br>Hubraum: 1.450 cm³<br>Farbe: Blau<br><br>Das Gespann ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Czebei Dénes<br>Felszabadulás u. 38<br>7561 Nagybajom<br>Ungarn<br>Telefon: +36 309023199",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "16.03.2026",
+    "deliveryDate": "20.03.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
